@@ -1,0 +1,8 @@
+<mj-raw>
+  <!--FOOTER LOGO-->
+</mj-raw>
+<mj-section padding="0">
+  <mj-column width="100%" css-class="logo">
+    <mj-image width="190px" src="./assets/logo.png" alt="crunchyroll logo" />
+  </mj-column>
+</mj-section>

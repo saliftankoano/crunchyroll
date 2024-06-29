@@ -1,0 +1,80 @@
+<mj-raw>
+  <!-- ALL PROMOTIONS-->
+</mj-raw>
+<mj-section css-class="promo" padding="0">
+  <mj-column width="100%" padding="0" background-color="white">
+    <mj-image
+      src="./assets/xmas.jpg"
+      alt="christmas crunchyroll"
+      padding-top="0"
+      padding-left="0"
+      padding-right="0"
+      width="600px"
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZwD12iSyUVv-2Fgdx2ysYEr3CRgZILHd3lIX9QalZKvX5lVNXe1-2BX9HAeoBANqPjpJryDi0KV4evgkSs-2BcTgH0YYSGz5NakaUl1eaY4yQnPWlDnM4VS2mIe9FcB6y7WEWWxRIAtFdL9TKwSH3G5dobGzi7YaWz1W-2F7KN-2FYqd-2FvXUATQ-3D-3DlO_r_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruSirT5YWoJMB2mSpry5Y9wf80enlFsoEsYNapy0-2Bu-2Biegr1lu-2F7L-2BbwyErBR-2BiZ-2BM-2FWrNe0Fa7UZGLRaZREYUztCGklY-2FPthXzMaaQKqKec7HVtLZnomBlRt4WJHIh8e5C9heiVRWN0qS5cgEh-2Fhtug-3D"
+    />
+    <mj-raw>
+      <!--PROMO-->
+    </mj-raw>
+    <mj-image
+      src="./assets/promo.jpg"
+      alt="promotion crunchyroll"
+      padding-top="0"
+      padding-left="0"
+      padding-right="0"
+      padding-bottom="0"
+      width="600px"
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZytx30WXEVbAuDdKqI5ywK6qjog0jL3S6Y-2BqI48s84vhjgQlMj-2F7z1gTdn0zTk1HC4dfMTZ9kI6MJM3QWuFmGaJtusI0720NAb5ImI7w2Fnmxkr0-2F3yGoFxTwcw0z1iouZXJsikyfyLaivXmPDdMK25KWk9FtN9YaCevW8a9DSuiYu7Jmq-2FGRZVLtYldFdUYP266nXlUMTU8jkSkjlgMt2vQcHl_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruf-2B0HsuZCWoLT0sz-2BKSW1eHzhGnOYCjekSYG-2BxfghCwPZfaZk-2BBNaX-2Fwy7OZgHX-2BReZEYlBXTlmsuiCkPKYCXosFTS84gMVQ-2BYIT6J5k-2FAFoxVa1oYuODDdfrtlYBQxKbd-2FS9TYtZASEhRDjxn2Qo38-3D"
+    />
+    <mj-raw>
+      <!--DEALS-->
+    </mj-raw>
+    <mj-image
+      src="./assets/deals.jpg"
+      alt="promotion crunchyroll"
+      padding-top="0"
+      padding-left="0"
+      padding-right="0"
+      width="600px"
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZytx30WXEVbAuDdKqI5ywK6M5669cWVhYhXxgNBkuYNpr6XNgpJ5A6uk75eMpT9Y6IlkRzf6w5D6M9Ltn1Dv-2FD1K6cl9ejqr6gAO2iMn53YNEwiqC5EWst50oBVsBtrQmYdv1waaQGXB-2BW1ykep9spcgbApyeML-2BG4zUyhuT3-2BZsuYdxd-2FFP-2B-2FiZ0OpkT2lk0tzy5p3bQFTNRsOOrQITxxUDDui_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruWKD-2F7tgqZR15K4PFcYU9oSQSboILyi6Qdu-2Fdn5NGZymbMf4voLG9QE61JWivztsvf9AAo0xa9KqpD3e7L4GpYBxLyuDSTQ34xVzdgVOquFz2qMFLwpLmgrPmkdWlEZsCKkKw-2FFqxnswrdPJ9c91AH8-3D"
+    />
+    <mj-raw>
+      <!--IDEA-->
+    </mj-raw>
+    <mj-image
+      src="./assets/idea.jpg"
+      alt="promotion crunchyroll"
+      padding-top="0"
+      padding-left="0"
+      padding-right="0"
+      width="600px"
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZwer2IV1uyb3La4ntghC6cLkf69aAiihWYYCeZFjlm8jRKwp8SnTTps-2BV8o7Ai51UKtFmaIFd1HwcqVnTNtfZ3qLntudP1yldqfBqmShtZKKs42BHmup6HnNyJbasEMiBg0FnPNZcQ5bO5Wd-2FOzulf3I1vxznurw8Q0ti-2FeeGmJU0hN3h5Vq-2F5b39RIMfeR81G4YulqSz7mHOdmJZOx5XadMk1h_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkprubnYKjqKbBf9FT2pUhuWtN00Tue0lJlGdmZ-2B1FHPe-2Fm3JbPMgCXp65LjN1NJN3y2moL7UKV-2Br35vR7PxUAFhYu6dhs5PbwQZb7JaqC1yK-2FZ9YCyggYlEKdGX96jHghjeSaVCEsyw0AHCD4FyW2H60FE-3D"
+    />
+    <mj-raw>
+      <!--PRE-ORDER-->
+    </mj-raw>
+    <mj-image
+      src="./assets/preorder.jpg"
+      alt="promotion crunchyroll"
+      padding="0"
+      width="600px"
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZwgEBSSoarHRvrQj8Pm7g9yrPIBwJeGs0cP1vHJdbzB-2FL8Zvf9ZYwaH2lYlcuh-2BesB2Z3Xus0pyl0zxEKnapD-2BijGbR28HYQZyilQHrWKmn7pbZ0PyBtxrLPhmagjwg-2FyDDo9w5VGEnijT0PQ-2FoRDe5V6r1IGhboGk2zEoL5D-2BO6Ovb6d6zMZvv6yrhT0TBz4QVWovpb101-2BeJe4GjTF1Gs3jNhiwWwYHMvB0xngLWtXWoo2n7mDp3NbPT7aTiYaH4AeSqIqxbhGTTxKdDQw9vx-2FHYSPGjwclatdh7eC0JgTw-3D-3D2GYR_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruSxXR-2FrjWMTV557eNUf7Flil1OiWhwfdAlD8QD6vuFP1HQOMJFK4sKPS3yIZA2AXsUD3GIKAoUj0OqkpxpwkabiB6qz3XbV6avGLF3yWMXHqdhYc1WntP3i5X5AUplmnlTbpWyfsb0-2B1FFCofXUdcWo-3D"
+    />
+  </mj-column>
+  <mj-column width="100%">
+    <mj-raw>
+      <!--DISCLAIMER-->
+    </mj-raw>
+    <mj-text color="white" padding="8px 5px" align="center">
+      Discounts vary across categories and are only applicable to certain
+      products for a limited time while supplies last. Promo codes not
+      applicable. Items marked “final sale” not eligible for returns/exchanges.
+      Not valid on prior purchases.
+    </mj-text>
+    <mj-image
+      src="./assets/benefits.jpg"
+      alt="crunchyroll purchase benefits"
+      width="600px"
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZyegOEVbnDXTRrgUmaEd-2FEIIYYvOl6dtOJXVWVYZ233eRHdwBpb8Z-2BUTt8WOtdgZTPSrF-2BcgttHqBj9TpoM9WFN2h8Bc4iadMRHTEWwNGT8oH5qc4JVBANuValeuHC2gJjocM8YreTmpf9EgIC7kRPSaIPttd5gMR1fWmkC-2FRzTJ1OYlIIFdvO6lMshq99wmXc-3DBg3e_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruUGhQRV3XQllxCyMMivQN5G8Feuzi9f5wYevCIi6IJjwJZDeUPizlhopF0s0TL-2BWPKlg5H2aPnr8OZm6jPNve1s9GdlMOUUiEO-2FE-2BXd2EaZbFwxvumLyTZh-2BDXSaWuLpeM-2BUH4-2BymF4hmhAw1UZKUlU-3D"
+    />
+  </mj-column>
+</mj-section>

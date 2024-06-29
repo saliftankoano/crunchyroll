@@ -1,0 +1,34 @@
+<mj-raw>
+  <!--FOOTER SOCIALS-->
+</mj-raw>
+<mj-section>
+  <mj-column padding="0" width="33%"> </mj-column>
+  <mj-column padding="0" width="8%" css-class="social-logo">
+    <mj-image
+      padding="0"
+      width="35px"
+      height="35px"
+      src="./assets/twitter.png"
+      alt="twitter logo"
+    />
+  </mj-column>
+  <mj-column padding="0" width="8%" css-class="social-logo">
+    <mj-image
+      padding="0"
+      width="35px"
+      height="35px"
+      src="./assets/facebook.png"
+      alt="facebook logo"
+    />
+  </mj-column>
+  <mj-column padding="0" width="8%" css-class="social-logo">
+    <mj-image
+      padding="0"
+      width="35px"
+      height="35px"
+      src="./assets/instagram.png"
+      alt="instagram logo"
+    />
+  </mj-column>
+  <mj-column padding="0" width="33%"> </mj-column>
+</mj-section>

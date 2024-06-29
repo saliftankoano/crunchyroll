@@ -1,0 +1,44 @@
+<mj-raw>
+  <!--FEATURES-->
+</mj-raw>
+<mj-section padding-top="8px">
+  <mj-column width="20%" css-class="block-20"> </mj-column>
+  <mj-column width="15%" padding="0">
+    <mj-image
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZyX56TnKNBNfnkzNop-2BLm9ma-2BIaxpoDRYUsqpTBvRiqjshdJAo8BvrILa3W3JOiYivPx5mURdP2j0MEv-2FCZXZuZGNWCxv6HFor5F8tB-2BLd65f-2BaR2q8nb8VoyRAxfsvAh9-2B6cnXwgp7gH1AXgqZGBGt94YFi7akRyQmiEuTgczB0T8IfYeyg9oRAAVJ0j28m9gS2oM8F6p8vKwOcwuFUOIKXBAOndPXuci1pNRUtakU8QWU-2Fr8-2BKXq7ryqO-2BFvzn96IWSN6HwqP-2BibXjUzluSmFIlA0-2Bsa5CEex3ZpsH2yogg-3D-3DZU_L_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruX0OaluGl0e4tVxTaFITKvhH61BWC5TLhN-2BZqiG0K-2F5xxZxuAap0jh1TPKHJ8im1Rw0W9S-2FO5iTgFGtUmQ6-2B4ao9eH0H4k2yMn5gqxhPYi2A5B4jUrI5mSnFjpHcq5OXF-2FARFi-2FBrDL4KImg3xApkV4-3D"
+      width="85px"
+      padding="0"
+      src="./assets/store.png"
+      alt="store"
+    />
+  </mj-column>
+  <mj-column width="15%" padding="0">
+    <mj-image
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHbRb6hBmo33N0LbsTT7acLblORY-2FpThLsm8lUJKIWImAiY0N-2BES4d3ADAC6n6dcz8VTepEfIWzyyo31FsTmLrFjsfx7XadrSh-2Fce7dF8cUC0h8zxHs9iaPJtwzThZ3YhbMG3L5MRBjxQ-2FrJxm646R9m-2BBK494QxhB1wqdp-2Bfpm1MRhdzTq1xHV-2F-2BLCuh9reyvTAvrgg7L81horQESl4aSir9ICu0SiBQE7ndcOuuh1cr1nW1haa7-2F-2F-2BsA4g67-2FG5HVYcXhtQWgKjnj6AXxV8eQv-2BIpjZS-2BBn-2BaPUbcJBC7k55bcxBdJ9RrEe1BdXX1OThA-3D-3DpRrh_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruQQv7ObIKCvNGrS-2BwIY7GtXPt5y8z-2FtZrMvJONLe-2FILF78I6AB36qi713FhtgAiV6PmBpL0Ey5P5IQ-2FPSKs-2BDCtn5gxkce3LYKhhUk8YMyhFyzXQaA1ynQy9wP5McPVOYtm1Pm-2B47F-2BKF-2BnfA0pVEH0-3D"
+      width="85px"
+      padding="0"
+      src="./assets/watch.png"
+      alt="watch"
+    />
+  </mj-column>
+  <mj-column width="15%" padding="0">
+    <mj-image
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHbRb6hBmo33N0LbsTT7acLah466F69pIh4tx8BLlS7TVkyUQl3393afr9v4JmfdnH-2Fi5vcVrLB7d-2BsFXH2X-2B0L-2Fsbbuw8WrvfMaMwZYpcDxEC7sKAgzxcbnvB0bLO3wdgwJ41F8WBbQxxmvF27-2B27d-2FbuxvTu10ykZ2rHuyG6Y9lYYfNepPWmEJz-2FAT8yhYbR-2FnzlMrol5wo74LsrtRp-2FIlRccc2LSPoLctKxhIk6rbRS-2BUVnz2Vj7BK6IsxOtkA2CgGaRjduy8TVCqdOFyIseeFgbefSX1cZreOfLpgw-2ByzbC8ljQF-2Fi8x4ccB62cHUw5j2ICQbVzSz1ewFbW8W8UI-3DkPD__n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruWCFBPqwbZEbRUt0gHXzllMoN7ckZX7uBrICNKeDL2Ut1bnckJanFWBxrexbTmJJvBWb0w5qqfqjwh3RySqRQP8O0eMzalYz9GKkZw9lEYh-2F0sMEYjL-2BXM57YUywbquQl00hYUug8ozOBXqpYIfUK6w-3D"
+      width="85px"
+      padding="0"
+      src="./assets/games.png"
+      alt="games"
+    />
+  </mj-column>
+  <mj-column width="15%" padding="0">
+    <mj-image
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHbRb6hBmo33N0LbsTT7acLadD-2FtkPrNggsArG7AhoPG11c7J0bF5mA4AUKdBLF2zr66Pb1fqVWSVK-2BAgAyNv59bJ1F4Wb6bkzqIY5tOroYxO7hK4zVGeDseAQaK6RorRabDJnWRE-2BJUQdzh7hNTPITTp5KHdr0yKD4EKu5Kffyv-2BdlEuvItH-2FLVVXcwilstDrZV-2BllKf-2BG8hEy1wS9y0aew-2B9YYam445GxhYu-2Fx8VINBjq5boYK5SZjPUsUL9s3zF7mmpG2bM4PYhLO2q3AobQQjSqZ3VlcptCxxXrvazKkGG8y-2FsG23mQ-2Bq1RdZdxnTVQ-3D-3DAxtU_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruTsbypRyKrRrv0SfJkzVfjusOt-2BcyedPOrQSSKmMJ3lEI0PkWR8wZvQhOnG4zu3HMRiAPMWRIaPgUrAwrpKWotjjqIBuMLMrpa6C4SdUI8oIgZzem8JN2j1lHmVwFyPTXYd1i4fD8L-2BgZy-2FxcAhJnBs-3D"
+      width="85px"
+      padding="0"
+      src="./assets/news.png"
+      alt="news"
+    />
+  </mj-column>
+
+  <mj-column width="20%" css-class="block-20"> </mj-column>
+</mj-section>

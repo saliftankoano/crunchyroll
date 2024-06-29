@@ -1,0 +1,66 @@
+<mj-raw>
+  <!--FOOTER TEXT-->
+</mj-raw>
+<mj-section>
+  <mj-column width="100%" padding="0">
+    <mj-text
+      font-family="Lato,Arial,sans-serif"
+      color="#8b8b8b"
+      font-size="13px"
+      line-height="18px"
+      align="center"
+      padding="0"
+    >
+      9050 Washington Blvd, Building 1100, Culver City, CA 90232 USA
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%" padding-top="15px">
+    <mj-text
+      font-family="Lato,Arial,sans-serif"
+      color="#8b8b8b"
+      font-size="13px"
+      line-height="18px"
+      align="center"
+      padding="0"
+    >
+      This email was sent to example@gmail.com
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text
+      padding-top="0"
+      font-family="Lato,Arial,sans-serif"
+      color="#8b8b8b"
+      font-size="13px"
+      line-height="18px"
+      align="center"
+    >
+      <a
+        style="color: #8b8b8b; font-size: 13px; line-height: 18px"
+        href="https://links.mail.crunchyroll.com/ls/click?upn=PX0Yv1ewwpkKwozoIPlC5REGPLh5NKExa-2B0ShX7Vo36xvow1ZunHgyZBEnzBb0g8pQe4m2z01oUZhr9Yq3tb8seASjV1GczEIwOYFYPqm9W-2FdbptR6lH-2FRQO9Hnh6vvC5P2aVd99Lg75ek1oLI192LB5ewIeDluLVVRgFP4k-2F-2FYXOOsTkhQyLWJCF7D7E34Q6c1w08AbbXUH-2FggxQLJuM-2BzhWWNjGsDPUNkfmuUI4EzCu5muBUJ97ETVJe3K9opNtqAOcFfQOtK4TsdM7fo0fomAh6YxUcCckoyd1nQU1lHH56auy9MisRVyo9yfmgjmm8dz_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruR2TBg-2FK29sjFG9jfrOGZt-2FJt1lpaThyRqk6naIjKP2SL-2B30QQzWC5t51B2PdPPiSV42E5GcOJKBdpuL248DmBvJ1Q29BQUrJNwRqW9ovZcKanlKMCicEYXeNacNBKp-2B8DRvTwJL1hMDYYuDCeP6jOE-3D"
+        >PRIVACY POLICY</a
+      >
+      |
+      <a style="color: #8b8b8b; font-size: 13px; line-height: 18px" href="#"
+        >UPDATE PREFERENCES</a
+      >
+      |
+      <a
+        style="color: #8b8b8b; font-size: 13px; line-height: 18px"
+        href="https://links.mail.crunchyroll.com/ls/click?upn=PX0Yv1ewwpkKwozoIPlC5REGPLh5NKExa-2B0ShX7Vo37iZ2qGQWV-2BkBeH-2FLi5m4rekNYkw83SMNWkwJ5SnbUpEptSJE9gCBUbBagoIc1ujANQrUSepnLxDwLzneWN-2FB8cwHy3HhbjuM0Yp9Os2C7IC53kGIaHeFr85ktOPW7IKoxfj-2BbwkVVXezngUfsDsDZqLqfSYaAKnHJYZGtt6uQe7kXHvk7OYAAp0XKF5Hyly-2FOhlJP-2B6jiBBJsITfc8FW11FwT3vFDy3JRTi9Yaa8FIEIOghZ-2Fuu1jYibtuokSTqu0-3DClK5_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruQoZffdnR31dU5BGuuOcZzh5o9htqwpkTHfIAqvEGATuL8g3Yi7sfCTxBU3gnEoqCZwZPFKF9UQ3WLXaNiABm5Y6dnJU4uuqOySZ0FmzHhZcY7NRfUJebBr-2FosG1oTSysg7FwWS4bmtBlLdxuDcSQn4-3D"
+        >TERMS OF SERVICE</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text
+      font-family="Lato,Arial,sans-serif"
+      color="#8b8b8b"
+      font-size="13px"
+      line-height="18px"
+      align="center"
+    >
+      ©2023 Crunchyroll LLC
+    </mj-text>
+  </mj-column>
+</mj-section>

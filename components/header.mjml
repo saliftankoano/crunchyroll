@@ -1,0 +1,39 @@
+<mj-raw>
+  <!-- HEADER-->
+</mj-raw>
+<mj-section>
+  <mj-column width="100%">
+    <mj-image
+      src="./assets/logo-top.png"
+      alt="crunchyroll logo"
+      href="https://www.crunchyroll.com/"
+    />
+  </mj-column>
+</mj-section>
+<mj-raw>
+  <!-- NAVIGATION MENU-->
+</mj-raw>
+<mj-section background-color="#222227" css-class="navigation-menu">
+  <mj-column width="15%" css-class="empty"> </mj-column>
+  <mj-column width="8%" css-class="empty" padding="0">
+    <mj-text padding="0" align="center" color="white" font-weight="500">
+      NEW
+    </mj-text></mj-column
+  >
+  <mj-column width="15%" css-class="empty" padding="0"
+    ><mj-text padding="0" align="center" color="white" font-weight="500">
+      PRE-ORDERS
+    </mj-text></mj-column
+  >
+  <mj-column width="12%" css-class="empty" padding="0"
+    ><mj-text padding="0" align="center" color="white" font-weight="500">
+      FIGURES
+    </mj-text></mj-column
+  >
+  <mj-column width="8%" css-class="empty" padding="0"
+    ><mj-text padding="0" align="center" color="white" font-weight="500">
+      SALE
+    </mj-text></mj-column
+  >
+  <mj-column width="15%" css-class="empty"> </mj-column>
+</mj-section>

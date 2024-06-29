@@ -1,0 +1,84 @@
+<mj-raw>
+  <!--CATEGORIES-->
+</mj-raw>
+<mj-section>
+  <mj-column width="100%" padding="0">
+    <mj-text font-size="28px" font-weight="500" align="center" color="white">
+      SHOP ALL CATEGORIES
+    </mj-text>
+  </mj-column>
+  <mj-column width="96%" padding="0" border="3px solid #f5bd38">
+    <mj-text font-size="20px" font-weight="500" align="center" color="#f5bd38">
+      <a
+        style="text-decoration: none; color: #f5bd38"
+        href="https://store.crunchyroll.com/"
+        >FIGURES</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%" css-class="spacer" padding="5px"> </mj-column>
+
+  <mj-column width="96%" padding="0" border="3px solid #f5bd38">
+    <mj-text font-size="20px" font-weight="500" align="center" color="#f5bd38">
+      <a
+        style="text-decoration: none; color: #f5bd38"
+        href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZytx30WXEVbAuDdKqI5ywK6Ofxq4zlRDlo15aef2WrghA3cQwIjTkYjhd7ZcdWk4HLjKwgOMX-2FHGnEGKdikgnJhE9ylrQ9lFuaCyz8lggPzfW6D26TqGb8Ryp8yOq9HU6A6Eh-2Fw-2FfhDNurG7d8wMzB2-2B-2FZSnHRCnmx-2BbuKDFsltHsp9cxekQrHAI3ZjSq3OqVDePUmMeHhLDC6MK80ii2FVTQ6UHMqoy4eodWaYdoPsSV9bHpb-2BbIHwM-2BRAnF8PsVXFplxu7zOZdHD-2BnW-2FDGq4yzobzu9iDpItiew3ZTxOPmXUZIxmow2-2BdPphisxiiKKHiYjhdN0yRxav7GPkrsJPeTwX3yML-2BPHKc5qD3s33GwgVSUI4IHey4bb-2Bv0YLoKa4-3DtQ9O_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkprua4meV-2BItk3UKiH-2BHC-2BT8g7WLDnRgWlonX-2F3XOLEQPkkWF5ZqsZVeXOLlC-2BbZ9UtIqdUYNypEHDgjihc6zXHC17YDGW7GdpKLQm-2B38eYabyxVZvFFiSppEmTBgWSzo4tUtQRvAVSWry54PZ3MJG8XeA-3D"
+        >CLOTHING</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%" css-class="spacer" padding="5px"> </mj-column>
+
+  <mj-column width="96%" padding="0" border="3px solid #f5bd38">
+    <mj-text font-size="20px" font-weight="500" align="center" color="#f5bd38">
+      <a
+        style="text-decoration: none; color: #f5bd38"
+        href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZytx30WXEVbAuDdKqI5ywK6IBotCqooNihYP69zcSm1qZjs7BsILEyj2lv3-2Bxae1NJuuyPvGcNkSstXvlAcJu6ac6EDLjjdox50FE2a4k9n0qQ125dMyp7kY-2BwH7ejhz3pkLTcRe94mSyGW1qD8mkSqh-2BngnXjvUmMD0buKbRFOh63WI7A4CMvTRaudheda48UTl5dzUFqKQv7u4O1cy-2FQVQgidkyuz1RePI1xfQLNrHIDsPvO93M7cBxaYw6xJptPIG7E3Hginjfcoom5RYHF7E1ViiVCha8xoD-2BEjgk2jE-2BwLjsJ-2Bd6OJRgB3jnSr-2BH63ndpbAHEc-2BVgGc59lqGGyzJYyj3cjWIF14iTrBJuXXRGgT-2F0JtOXLge0onw5SHRQ-3DB7C9_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruez41pbpSloHwwRoy1l2KXoRbUeOPa5rZFScrtjPgPCgsKIPj2R2bL1Zxytm3BzEBTNqcP5apIsoOh8jFX6Du8rc8WqpxUFuEz6DbdRUyNOjipkAJ7aLHqsbUOfx2XO1qxNtO1hOSb7kj1uGfIHZAGo-3D"
+        >ACCESSORIES</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%" css-class="spacer" padding="5px"> </mj-column>
+
+  <mj-column width="96%" padding="0" border="3px solid #f5bd38">
+    <mj-text font-size="20px" font-weight="500" align="center" color="#f5bd38">
+      <a
+        style="text-decoration: none; color: #f5bd38"
+        href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZytx30WXEVbAuDdKqI5ywK6McrbHMEBYAMQYTvM0bNcfCkkbEkUY0yfgqJE5eecGrru0R3YVV2EtEAqk86lQyHdv-2Fg7u4iClnzPeTqe5y1AG7lOek5T-2F9JfEjrM4kJOkTeYFQavtGvhZ-2F1dL6bQ-2Fb3ri2hQCcFLLDxmUyVdllsu-2FCEv-2BPqoYfMOoon62o6JzVV9rx3f6aC8jj4x04u8Bpm42h8ale-2FY8otjx2MeBaQi6lz3I1x99AQJ6oJJB4mPI8BbxXtDQIH5t3jqux747l4aPCFmBPex0Z8Q4PAek9YdLSUia7XmJVcYSSDzi8uw0xfPlsu-2BKaVRBYo5hLDfUEfHQwPEYMYFYpgIScVgAzX8PZBhoz9CxKA4oEkgCme1aV0-3DEBEI_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkprueDR-2Fv8EaJvGMDI0vYpMoMJ9Q1VZQqXFCQQYHOCmWoGB8fPmwe1sk-2FPsoJK5axf-2Blug9HK1oU7m2u6f58Pff179pSuaBtmFhqCQkgtzwHawsDXuDcYWjpAyjo4jgT-2Fztsoog3QTaY4r6PC5fbSQLpoU-3D"
+        >HOME ENTERTAINMENT</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%" css-class="spacer" padding="5px"> </mj-column>
+
+  <mj-column width="96%" padding="0" border="3px solid #f5bd38">
+    <mj-text font-size="20px" font-weight="500" align="center" color="#f5bd38">
+      <a
+        style="text-decoration: none; color: #f5bd38"
+        href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZytx30WXEVbAuDdKqI5ywK623yF11NEykn0xf-2B-2Bal6x3vRial6sEa4qP6l4NuDM7F39p7mm03SVESVSW58w64ClDS45HgRI9daxqCGEdFcuvGlWduO0nXyQQcyff-2FmxqVRIeGpVAZpSYRy2Uaa2eplWgUKJBm6ciYaE-2Fj6VHMoBcfYhgPpAwDqd4aZip-2BnF4ewXjrBk-2BsyY10CcldFZudYgjDSX3zcOlqIXXqi5wptHM0Vi5sqE1KzJSVPrjoayxhQbQo5hkjemfkpp1-2BOQ3Fnevq5ATQ0ophfWy4sUbKM44UCPeQfRo-2FenjN19or1Zhnf87GaEFLh0E4o06RPyek-2BZSxqDBcoRSR2YR-2F5wO6XcOxzJmT5sDeszg5xv-2BnNL-2Fgk-3DU8cX_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruXZhFWndnDptkeLia3Dd6Il-2B-2Ffrb8-2FHfOSx6XdmycK0aFMGcmpX3oH7ONc8pzE8wgkV4kb1frddBJjY3hN0iRVFQfuLRbbijocI5QPtBnvsuo3F4JaZ9VNeggkCK6AAa1OHJwihN-2BmSyUgCHakyG7PY-3D"
+        >MANGA & BOOKS</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%" css-class="spacer" padding="5px"> </mj-column>
+
+  <mj-column width="96%" padding="0" border="3px solid #f5bd38">
+    <mj-text font-size="20px" font-weight="500" align="center" color="#f5bd38">
+      <a
+        style="text-decoration: none; color: #f5bd38"
+        href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZytx30WXEVbAuDdKqI5ywK6BHjA94PelUcJMcGpvNjNeOdXGERZ5xjVlWF8VcWcKLdjBbmZaDkRUmP4UsldwSlCEOZq41n5VicFdMFYhqydm71h9mYuUhaNxieYhPCH7vCieRt-2F77ELgnbYyjtWV0AIiDENucjVHtayOwmAWMtcAYdYNCqx8sWYHsGCaKgZmvjhedgJ-2F5pzNXHk7Z6SR4-2FChPh5Doq0waV3CPQAxUIcqS52i3ZGoxe-2ByxigWrQgwUvrExalCS8Xfn4dGEAl6CDNbrj2gwYS-2FWrr2nZXMfVxEHb0u847Qjh5AcKOgkxwQtWTVo-2FJ7eVZPJL6jcvjXQHnlKqc8sDez240LJQoUZ-2Brug-3D-3DD48Q_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkpruR8R-2FatF-2BN29YW0ywIsvCxAbDp7uQ63TFmsNWYc-2BWwmKoHwKJ5Bdg23p9nd-2B3hoVBli86tbP-2FKfQJOkzcGpc4HaUzXDgBnwdkNUZ578s5RWI1Tymf8-2FkFrOQdhFvQhCi-2BZ0Pl1IrrUYPYv4R55rmI5M-3D"
+        >HOME</a
+      >
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%" css-class="spacer" padding="5px"> </mj-column>
+  <mj-column width="96%" padding="0" border="3px solid #f5bd38">
+    <mj-text font-size="20px" font-weight="500" align="center" color="#f5bd38">
+      <a
+        style="text-decoration: none; color: #f5bd38"
+        href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHREgOT0WJFLrBxbDd2B6kZytx30WXEVbAuDdKqI5ywK6250KZDPbtb46OLHbLCxUiAqyH1xAnxvYbvXDpjkrmQX5hMou76p0DgQ0i1SI6Foox5N7-2FMCJEPENuorXH99HAF3o7oVG7mVizPzWYyaOjkXY1BUoAAWVC86-2FOT9JkV6IXbuS1eHtg1-2BHF-2FJFY9-2BBnn1aa15N51FHOgW-2F064w7pSO1QB8bAPE3sDi-2BMMVJFEeZCJcCpH9eAaiQLG1o4aA3Aabj7cTeDPxBhscdOUo5pK0o3KpriTxCw9xHJ1GOTzTQRIfjjIKyQfbTLLtGbDP4oAHzYO-2B8cZMCR01reNcO9USt0nIMdzKslhkLp2H6f4s0rKyojGh1-2B6-2BGrzzr0Om1g-3D-3DHGa3_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkprucW3VdP0h47JCatk6z6OBd45VATNAZTHLrIB6ld-2BtN7TAR9l9EZYy2PF0PDA18KKPxYvbtFWFC-2Bm-2BnWbLYBNpuVKfSLebAlzLhOJxtrnbNg95A9VkFQNGIA20BOu-2Bsy7i5SIbyqy0D14YUpipLCY1Ec-3D"
+        >SALE</a
+      >
+    </mj-text>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,12 @@
+<mj-raw>
+  <!--PREMIUM-->
+</mj-raw>
+<mj-section css-class="premium" padding-top="0" padding-bottom="0">
+  <mj-column width="100%" padding-top="0">
+    <mj-image
+      href="https://links.mail.crunchyroll.com/ls/click?upn=2SUa3reo277uXu924h7OHbRb6hBmo33N0LbsTT7acLZOdCgOb7hhnOAsAiKD29-2FzMfkhQF1aqMbK62Ctc6lII4f7TYJvqeHtTHUzV0BL2vW50vrSVe2Y-2By-2F09-2Bazk2QA7gC0u3f-2FvHIDkicS4-2BOZ2oa46dW3O7jEpfNMH7jJV0Ekew8K0ClLDf-2FE68dP3PFwD3lqtjBMbgKCGMN8K-2BHMU-2Ba7-2FNTVV-2FZDZlq-2BoqoB7Qm5rj2bajcyaCpOFDVWLLU9Kk-2BsjLF8aKU6WQ-2FJAkLrsaT3l0sPAXHCfCabHNtYmyE6EowHtvWveAI5eYoNID-2FHsJIFJJL4VCiG52qNA1UDRMRIsvSKzsFwIMRJTSSKx-2BVaO7rBQfCsbaeb3WGNxwgP5b77_n2R778jWqlhRoE5pQYOp4sGlKcjytwr1PeBMYQisG37AqBc0ocXEjcM-2Bcm5IILBOc4Z24FRGpXOasKCS9csYtIY5IphlnfbiLrVbl-2BZuahTMdM7B0BVgAjnB5d769chU2pqFyTyd6hQMsm0yYRCZ8AhWfA2EnD1C-2FVpgVBOcu8-2F-2FTsAR-2FFFZse56zCnDWgsgvqDB8PLXi7E0bmr23MV2r0ZxPcRM1n0PSoOb4v7DN9jOvmq-2FyZ0qvhbYBG09dyM1SUfAeb9-2FUUhq0cYBnEfNgCv-2FF5XKb7-2FsaNEOEK9vu9r-2FZPc0-2Bgkn6y9eByjT5oTIobss1Ps-2FfoUT1CIK87jPj81BcxsuBSZzFqVChXWt18AgE0rTsMjxJ-2FLxqirhp5KRbae8k-2FRFAGwH3wWE3eD54-2BORli7ZfJSjkRXXt4L-2B7ScB7ml5sz3sRcJ2uPDi-2F5WSnh94wzPs1rMGvTbxuxuKLEls044yqkE4K7paPP1ILmEJkh8TKzLmSoe-2BIGkhW7wzJ0KDFXauv8IcE5TUdkprueXxbqaTuOd3bR5usOMB1RqcbLgBelWRKms0umb0VCCXaie9UqyT9iZcUbAQfLWd-2BFRMY-2Fwu6jKHfokMNMq9ZPb1rXwsDzI1juSZL-2FwVU2vcgmLubk5sDCY5qHxsvapa6PK8wQaGVThXmuK-2FdPF70XE-3D"
+      src="./assets/premium.gif"
+      alt="crunchyroll premium"
+    />
+  </mj-column>
+</mj-section>

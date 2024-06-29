@@ -1,0 +1,16 @@
+<mjml>
+  <mj-head>
+    <mj-style> </mj-style>
+  </mj-head>
+
+  <mj-body background-color="black">
+    <mj-include path="./components/header.mjml" />
+    <mj-include path="./components/promotions.mjml" />
+    <mj-include path="./components/categories.mjml" />
+    <mj-include path="./components/premium.mjml" />
+    <mj-include path="./components/features.mjml" />
+    <mj-include path="./components/footer-logo.mjml" />
+    <mj-include path="./components/footer-socials.mjml" />
+    <mj-include path="./components/footer-text.mjml" />
+  </mj-body>
+</mjml>
